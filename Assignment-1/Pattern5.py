@@ -6,9 +6,8 @@
 # 1	 4	6	4	1
 # 1	 5	10	10	5	1
 
-num = int(input("Enter number : "))
 i=0
-while(i<=num):
+while(i<=5):
     j=0
     value = 1
     while(j<=i):
