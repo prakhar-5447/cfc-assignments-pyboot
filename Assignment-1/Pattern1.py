@@ -5,9 +5,8 @@
 #  *   *   *   *
 #  *   *   *   *    *
 
-num = int(input("Enter number : "))
 i=1
-while(i<=num):
+while(i<=5):
     j=1
     while(j<=i):
         print("*\t", end="")
