@@ -5,12 +5,11 @@
 #       1   2	3   4   3   2	1
 #   1 	2   3	4   5	4   3	2   1
 
-num = int(input("Enter number : "))
 i=1
-while(i<=num):
+while(i<=5):
     space=1
     j=1
-    while(space<=num-i):
+    while(space<=5-i):
         print("\t", end="")
         space=space+1
     col=1
